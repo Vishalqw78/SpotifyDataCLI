@@ -1,0 +1,43 @@
+{
+  "name": "spotifydatacli",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "./bin/SpotifyDataCLI",
+  "bin": {
+    "spotifydatacli": "./bin/SpotifyDataCLI.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishalqw78/SpotifyDataCLI.git"
+  },
+  "keywords": [
+    "Spotify"
+  ],
+  "author": "Vishal Pal",
+  "license": "MIT",
+  
+  "dependencies": {
+    "axios": "^1.3.4",
+    "chalk": "^5.2.0",
+    "chalk-animation": "^2.0.3",
+    "clipboardy": "^3.0.0",
+    "express": "^4.18.2",
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.1.5",
+    "nanospinner": "^1.1.0",
+    "open": "^9.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Vishalqw78/SpotifyDataCLI/issues"
+  },
+  "homepage": "https://github.com/Vishalqw78/SpotifyDataCLI#readme"
+}
