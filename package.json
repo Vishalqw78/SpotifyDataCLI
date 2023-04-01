@@ -1,7 +1,7 @@
 {
   "name": "spotifydatacli",
   "version": "1.0.0",
-  "description": "",
+  "description": "SpotifyDataCLI is a command-line interface (CLI) tool that allows users to access thier Top Songs and Artists in 3 Categories . Developed by Vishal Pal, this tool is built using Node.js. SpotifyDataCLI relies on a number of popular Node.js packages, including Axios, Chalk, Inquirer, and Express. These dependencies enable the tool to perform a range of functions, such as making HTTP requests to the Spotify API, displaying colorful output in the terminal, and handling user input. Whether you are a casual listener or a power user, this CLI tool is an excellent way to discover which songs you are obsessed with.",
   "type": "module",
   "main": "./bin/SpotifyDataCLI",
   "bin": {
