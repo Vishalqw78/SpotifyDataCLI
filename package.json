@@ -19,7 +19,10 @@
     "url": "git+https://github.com/Vishalqw78/SpotifyDataCLI.git"
   },
   "keywords": [
-    "Spotify"
+    "Spotify",
+    "cli",
+    "spotifydata",
+    "spotifyapi"
   ],
   "author": "Vishal Pal",
   "license": "MIT",
