@@ -1,4 +1,4 @@
-# SpotiftData CLI
+# SpotifyData CLI
 
 SpotifyDataCLI is a command-line interface (CLI) tool that allows users to access thier Top Songs and Artists in 3 Categories.
 
