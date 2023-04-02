@@ -4,6 +4,8 @@ SpotifyDataCLI is a command-line interface (CLI) tool that allows users to acces
 
 Whether you are a casual listener or a power user, this CLI tool is an excellent way to discover which songs you are obsessed with.
 
+- Please note that this CLI tool is currently in development mode and only authorized persons should use it.
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
@@ -20,6 +22,7 @@ Install spotifyDataCLI with npm
 ## Usage
 
 ```bash
+
 spotifydatacli
 ```
 
