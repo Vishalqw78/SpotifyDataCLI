@@ -11,12 +11,19 @@ Whether you are a casual listener or a power user, this CLI tool is an excellent
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
+
+## Run it
+
+
+```bash
+  npx spotifydatacli
+```
 ## Installation
 
 Install spotifyDataCLI with npm
 
 ```bash
-  npm i spotifydatacli
+  npm i -g spotifydatacli
 ```
     
 ## Usage
