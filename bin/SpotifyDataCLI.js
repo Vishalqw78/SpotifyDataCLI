@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 import inquirer from 'inquirer';
 import { createSpinner } from 'nanospinner';
-import chalk from 'chalk';
 import figlet from 'figlet';
 import gradient from 'gradient-string';
 import fs from 'fs';
